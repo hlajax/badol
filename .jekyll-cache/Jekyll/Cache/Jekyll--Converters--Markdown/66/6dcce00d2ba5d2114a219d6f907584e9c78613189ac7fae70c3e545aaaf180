@@ -1,12 +1,7 @@
----
-layout: default
-title: "Paiements en ligne, gestion de portefeuille et vente des produits virtuels"
----
-
-<div class="container-fluid" style="padding-top:.5rem;padding-bottom:.5rem">
+I"ô<div class="container-fluid" style="padding-top:.5rem;padding-bottom:.5rem">
 	<div class="row">
 		<div class="col-lg-1">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1606661505/logoblue_rylgpn.png" alt="" class="img-fluid">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1606661505/logoblue_rylgpn.png" alt="" class="img-fluid" />
 		</div>
 		<div class="col-lg-6 offset-lg-5">
 			<ul class="nav float-right">
@@ -43,7 +38,7 @@ title: "Paiements en ligne, gestion de portefeuille et vente des produits virtue
 <div class="container" style="margin-top: 5%; margin-bottom: 5%;">
 	<div class="row">
 		<div class="col-lg-7 col-12">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1600698148/badole-vente_whaxsa.png" alt="" class="img-fluid">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1600698148/badole-vente_whaxsa.png" alt="" class="img-fluid" />
 		</div>
 		<div class="col-lg-5 col-12">
 			<h2 style="font-weight: 800;font-size: 45px;">
@@ -66,14 +61,14 @@ title: "Paiements en ligne, gestion de portefeuille et vente des produits virtue
 			</p>
 		</div>
 		<div class="col-lg-7 col-12">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1603699580/badol-achat_p9akzu.png" alt="" class="img-fluid">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1603699580/badol-achat_p9akzu.png" alt="" class="img-fluid" />
 		</div>
 	</div>
 </div>
 <div class="container" style="margin-top: 5%; margin-bottom: 5%;">
 	<div class="row">
 		<div class="col-lg-7 col-12">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1603699580/badol-achat_p9akzu.png" alt="" class="img-fluid">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1603699580/badol-achat_p9akzu.png" alt="" class="img-fluid" />
 		</div>
 		<div class="col-lg-5 col-12">
 			<h2 style="font-weight: 800;font-size: 45px;">
@@ -147,3 +142,4 @@ title: "Paiements en ligne, gestion de portefeuille et vente des produits virtue
       	</div>
     </div>
 </footer>
+:ET
