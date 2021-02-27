@@ -3,30 +3,17 @@ layout: default
 title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuels"
 ---
 
-<div class="container-fluid" style="padding-top:.5rem;padding-bottom:.5rem">
-	<div class="row">
-		<div class="col-lg-1">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1606661505/logoblue_rylgpn.png" alt="" class="img-fluid">
-		</div>
-		<div class="col-lg-6 offset-lg-5">
-			<ul class="nav float-right">
-				<li class="nav-item">
-					<a class="nav-link active" href="#">Accueil</a>
-				</li>
-			</ul>
-		</div>
-	</div>
-</div>
-<div class="container-fluid" style="background:url(https://res.cloudinary.com/aseed/image/upload/v1614426661/badol/bd-hero_r3vrrz.jpg)no-repeat;background-size: cover;background-position: center center;height: auto;">
+
+<div class="container-fluid" style="background:url(https://res.cloudinary.com/aseed/image/upload/v1614426661/badol/bd-hero_r3vrrz.jpg)no-repeat;background-size: cover;background-position: center top;height: auto;">
 	<div class="row" style="background:rgba(0,0,0,.5);">
-		<div class="col-lg-6" style="padding: 5%;margin-top: 5%; margin-bottom: 5%;">
-			<h2 class="text-white" style="font-weight: 800;font-size: 50px;margin-top: 5%;">
+		<div class="col-lg-6 m-top-xbig m-bottom-big">
+			<h2 class="text-white hero-titre m-left-big">
 						Gérer un business demande du travail, le nôtre est de vous aider.
 			</h2>
-			<p class="text-white">
-				Nous mettons à la disposition de nos clients tout ce dont ils ont besoin pour accepter des paiements et d'envoyer des virements à partir de leurs téléphones. 
+			<p class="text-white m-left-big">
+				Nous mettons à la disposition de nos clients tout ce dont ils ont besoin<br> pour accepter des paiements et d'envoyer des virements à partir de leurs téléphones. 
 			</p>
-			<a class="btn btn-outline-light" href="#" role="button">Je veux l'intégrer
+			<a class="btn btn-outline-light m-left-big" href="#" role="button">Je veux l'intégrer
 			</a>
 		</div>
 	</div>
@@ -34,7 +21,7 @@ title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuel
 <div class="container">
 	<div class="row">
 		<div class="col-lg-10 offset-lg-1" style="margin-top: 5%; margin-bottom: 5%;">
-			<h2 class="text-center">
+			<h2 class="text-center intro-text">
 						Une suite de produits de paiement pour les marchands en ligne et physiques, les entreprises d'abonnements, les plateformes logicielles et places de marché, les créateurs de contenus et les particuliers.
 			</h2>
 		</div>
@@ -46,7 +33,7 @@ title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuel
 			<img src="https://res.cloudinary.com/aseed/image/upload/v1614423696/badol/badole-vente_gdn51w.png" alt="" class="img-fluid">
 		</div>
 		<div class="col-lg-5 col-12">
-			<h2 style="font-weight: 800;font-size: 45px;">
+			<h2 class="fw-bold s-titre m-top-big">
 				Accepter des paiements
 			</h2>
 			<p>
@@ -59,7 +46,7 @@ title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuel
 <div class="container" style="margin-top: 10%; margin-bottom: 5%;">
 	<div class="row">
 		<div class="col-lg-5 col-12">
-			<h2 style="font-weight: 800;font-size: 45px;">
+			<h2 class="fw-bold s-titre m-top-big">
 				Gestion de portefeuille et achats en ligne
 			</h2>
 			<p>
@@ -78,7 +65,7 @@ title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuel
 			<img src="https://res.cloudinary.com/aseed/image/upload/v1614426190/badol/badol-vive_aiywq2.png" alt="" class="img-fluid">
 		</div>
 		<div class="col-lg-5 col-12">
-			<h2 style="font-weight: 800;font-size: 45px;">
+			<h2 class="fw-bold s-titre m-top-big">
 				Vente de produits numériques
 			</h2>
 			<p>
@@ -104,50 +91,3 @@ title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuel
 		</div>
 	</div>
 </div>
-<footer class="footer bg-light" style="padding-top:2rem;padding-bottom:2rem;font-size: 14px;">
-    <div class="container">
-      	<div class="row">
-        	<div class="col-lg-8 h-100 text-center text-lg-left my-auto">
-         		<ul class="list-inline mb-2">
-            		<li class="list-inline-item">
-              			<a href="#">À propos de Badol</a>
-            		</li>
-            		<li class="list-inline-item">&sdot;</li>
-            		<li class="list-inline-item">
-              			<a href="#">Contact</a>
-            		</li>
-            		<li class="list-inline-item">&sdot;</li>
-            		<li class="list-inline-item">
-              			<a href="#">Conditions d'utilisation</a>
-            		</li>
-            		<li class="list-inline-item">&sdot;</li>
-            		<li class="list-inline-item">
-              			<a href="#">Politique de confidentialité</a>
-            		</li>
-          		</ul>
-          		<p class="text-muted small mb-4 mb-lg-0">
-          		&copy; Badol 2020. Tous droits réservés.
-          		</p>
-        	</div>
-        	<div class="col-lg-6 h-100 text-center text-lg-right my-auto">
-          		<ul class="list-inline mb-0">
-            		<li class="list-inline-item mr-3">
-              			<a href="#">
-                			<i class="fab fa-facebook fa-2x fa-fw"></i>
-              			</a>
-            		</li>
-            		<li class="list-inline-item mr-3">
-              			<a href="#">
-                			<i class="fab fa-twitter-square fa-2x fa-fw"></i>
-              			</a>
-            		</li>
-            		<li class="list-inline-item">
-              			<a href="#">
-                			<i class="fab fa-instagram fa-2x fa-fw"></i>
-              			</a>
-            		</li>
-          		</ul>
-        	</div>
-      	</div>
-    </div>
-</footer>

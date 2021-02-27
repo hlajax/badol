@@ -3,65 +3,50 @@ layout: default
 title: "Vivez de votre passion"
 permalink: /souf/
 ---
-<div class="container">
-	<div class="row">
-		<div class="col-lg-2 col-5">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1612192537/logo-btip_eihnzk.png" alt="" class="img-fluid">
-		</div>
-		<div class="col-lg-4 offset-lg-6 col-7">
-			<ul class="nav m-top">
-  <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="#">Créer ma page</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Contact</a>
-  </li>
-</ul>
-		</div>
-	</div>
-</div>
-<div class="container-fluid bg-primary">
-	<div class="row">
-		<div class="col-lg-4 col-12">
-			<h1 class="hero-titre text-white m-top-xbig m-left-big">
-				Vivez de <br>votre passion
-			</h1>
+
+<div class="container-fluid" style="background:url(https://res.cloudinary.com/aseed/image/upload/v1614460272/badol/souf_hm7hfi.jpg)no-repeat;background-size: cover;background-position: center left;height: auto;">
+	<div class="row" style="background:rgba(0,0,0,.5);">
+		<div class="col-lg-6 m-top-xbig m-bottom-big">
+			<h2 class="text-white hero-titre-souf m-left-big ">
+						Vivez de votre passion
+			</h2>
 			<p class="text-white m-left-big">
-				Vous créez des contenus réguliers sur Internet (vidéos, articles, musiques, photos, posts, etc.), vous avez une communauté qui vous suit et vous soutient ? Badol Tip est fait pour vous. 
+				Vous créez des contenus réguliers sur Internet : <br>(vidéos, articles, musiques, photos, posts, etc.), <br>vous avez une communauté qui vous suit et vous soutient ? <br>Souf est fait pour vous.
 			</p>
-            <a class="btn btn-lg btn-light m-left-big m-top" aria-current="page" href="#">Créer ma page</a>
-		</div>
-		<div class="col-lg-8 col-12">
-			<img class="img-fluid" src="https://res.cloudinary.com/aseed/image/upload/v1612195522/bd_hero_image_b0sut1.png" alt="">
+			<div class="m-left-big">
+			<a class="btn btn-outline-light" href="#" role="button">Je veux l'intégrer
+			</a>
+			</div>
 		</div>
 	</div>
 </div>
 
+
 <div class="container">
 	<div class="row m-top m-bottom">
 		<div class="col-lg-6 m-top-md m-bottom-md">
-			<h1 class="text-bold">
+			<h1 class="text-bold s-titre">
 				Recevez des Tips
 			</h1>
-			<h5 class="description">
+			<p>
 				Invitez les internautes qui aiment votre travail à vous soutenir financièrement dans votre démarche en vous donnant des Tips uniques ou récurrents (par contenu ou par mois). D'autres internautes qui découvrent votre travail peuvent aussi  vous soutenir.
-			</h5>
+			</p>
 		</div>
 		<div class="col-lg-6">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1612990966/gain_q7zwcx.png" alt="" class="img-fluid">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1614462185/badol/souf-kre_yqssvn.png" alt="" class="img-fluid">
 		</div>
 	</div>
 	<div class="row m-top m-bottom">
         <div class="col-lg-6">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1612990966/gain_q7zwcx.png" alt="" class="img-fluid">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1614462554/badol/souf-revenu_cji0nd.png" alt="" class="img-fluid">
 		</div>
         <div class="col-lg-6 m-top-md m-bottom-md">
-			<h1 class="text-bold">
+			<h1 class="text-bold s-titre">
 				Développer une source de revenus réguliers
 			</h1>
-			<h5 class="description">
+			<p>
 				Ne dépendez plus de vos revenus publicitaires ou de la taille de votre audience. Bénéficiez de revenus réguliers grâce aux paiements mensuels de vos contributeurs.
-			</h5>
+			</p>
 		</div>
 	</div>
 	<div class="row m-top-mini m-bottom-mini">
@@ -101,63 +86,34 @@ permalink: /souf/
 	</div>
 </div>
 
-
-<div class="container-fluid bg-primary">
-	<div class="row">
-		<div class="col-lg-9 offset-lg-1 m-top-md m-bottom-md">
-			<h1 class="text-white text-bold">
-				Offrez à votre public un <br>moyen facile de vous remercier.
-			</h1>
-			<h5 class="text-white description">
-				Laissez ceux qui aiment votre contenu participer activement à votre travail en vous soutenant sur Badol, pas de durée de collecte ni d'objectif à atteindre, vos tips vous sont automatiquement versés chaque mois.
-			</h5>
-		</div>
-	</div>
-</div>
-
 <div class="container">
 	<div class="row">
-		<div class="col-lg-6 m-top-md m-bottom-md">
+		<div class="col-lg-6 m-top-big m-bottom-md">
 			<h1 class="text-bold">
-				Pour tous les créateurs du web
+				Pour tous les créateurs de contenus du web
 			</h1>
-			<h5 class="description">
+			<p>
 				Peu importe le canal que vous utilisez pour publier votre contenu, si êtes prêt à faire passer votre créativité au niveau supérieur et à ouvrir votre cœur à votre public, Badol est fait pour vous.
-			</h5>
+			</p>
 		</div>
-		<div class="col-lg-6">
+		<div class="col-lg-6 m-bottom-mini">
 			<img src="https://res.cloudinary.com/aseed/image/upload/v1612991415/creators_owwgti.png" alt="" class="img-fluid">
 		</div>
 	</div>
 </div>
 
 <div class="container-fluid bg-primary">
-	<div class="row m-top">
-		<div class="col-lg-12 text-center m-top m-bottom">
-			<h1 class="text-bold text-white">
-				Êtes-vous prêt à reprendre le contrôle ?
+	<div class="row">
+		<div class="col-lg-9 offset-lg-1 m-top-mini m-bottom-mini">
+			<h1 class="text-white text-bold s-titre">
+				Offrez à votre public un <br>moyen facile de vous remercier.
 			</h1>
-			<a class="btn btn-lg btn-light m-left-big m-top" aria-current="page" href="#">
+			<p class="text-white">
+				Laissez ceux qui aiment votre contenu participer activement à votre travail en vous soutenant sur Badol, pas de durée de collecte ni d'objectif à atteindre, vos tips vous sont automatiquement versés chaque mois.
+			</p>
+			<a class="btn btn-lg btn-outline-light m-top" href="#">
             Créer ma page
             </a>
-        </div>
-	</div>
-</div>
-
-<div class="container m-top-mini">
-	<div class="row">
-		<div class="col-lg-2 col-5">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1612192537/logo-btip_eihnzk.png" alt="" class="img-fluid">
-		</div>
-		<div class="col-lg-4 offset-lg-6 col-7">
-			<ul class="nav m-top">
-  <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="#">Créer ma page</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Contact</a>
-  </li>
-</ul>
 		</div>
 	</div>
 </div>
