@@ -1,47 +1,6 @@
-<!DOCTYPE html>
-<html lang="fr-FR">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Paiements en ligne, gestion de portefeuille et vente de produits virtuels - Badol</title>
-    <!-- CSS only -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
-		<link rel="stylesheet" href="/badol.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-		<link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;800&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet"> 
-  </head>
-  <body style="font-family: 'Epilogue', sans-serif;">
-    <div class="container-fluid" style="padding-top:.5rem;padding-bottom:.5rem">
+I"j<div class="container-fluid d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none">
 	<div class="row">
-		<div class="col-lg-1 col-3">
-      <a href="/">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1606661505/logoblue_rylgpn.png" alt="" class="img-fluid">
-    </a>
-    </div>
-		<div class="col-lg-6 offset-lg-5 col-9">
-			<ul class="nav bd-nav justify-content-end">
-  <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="/">Accueil</a>
-  </li>
-  <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Produits</a>
-    <ul class="dropdown-menu">
-      <li><a class="dropdown-item" href="#">Badol Pay</a></li>
-      <li><a class="dropdown-item" href="/souf/">Badol Souf</a></li>
-      <li><a class="dropdown-item" href="#">Badol </a></li>
-    </ul>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Contact</a>
-  </li>
-</ul>
-		</div>
-	</div>
-</div>
-    <div class="container-fluid d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none">
-	<div class="row">
-		<div class="col-lg-6 m-top-big m-bottom-mini">
+		<div class="col-lg-6 m-top-big m-bottom">
 			<h2 class="hero-titre m-left-big">
 						Gérer un business demande du travail, le nôtre est de vous aider.
 			</h2>
@@ -51,7 +10,7 @@
 			<a class="btn btn-outline-light m-left-big" href="#" role="button">Je veux l'intégrer
 			</a>
 		</div>
-		<div class="col-lg-6 m-bottom">
+		<div class="col-lg-6 m-top-big m-bottom">
 			<img src="https://res.cloudinary.com/aseed/image/upload/v1614426661/badol/bd-hero_r3vrrz.jpg" class="img-fluid" />
 		</div>
 	</div>
@@ -144,54 +103,4 @@
 		</div>
 	</div>
 </div>
-
-    <footer class="footer bg-light" style="padding-top:1rem;padding-bottom:1rem;font-size: 14px;">
-    <div class="container-fluid">
-      	<div class="row">
-        	<div class="col-lg-12 justify-content-end">
-         		<ul class="list-inline mb-2">
-            		<li class="list-inline-item">
-              			<a href="#">À propos de Badol</a>
-            		</li>
-            		<li class="list-inline-item">&sdot;</li>
-            		<li class="list-inline-item">
-              			<a href="#">Contact</a>
-            		</li>
-            		<li class="list-inline-item">&sdot;</li>
-            		<li class="list-inline-item">
-              			<a href="#">Conditions d'utilisation</a>
-            		</li>
-            		<li class="list-inline-item">&sdot;</li>
-            		<li class="list-inline-item">
-              			<a href="#">Politique de confidentialité</a>
-            		</li>
-          		</ul>
-          		<p class="text-muted small mb-4 mb-lg-0">
-          		&copy; Badol 2020. Tous droits réservés.
-          		</p>
-        	</div>
-        	<div class="col-lg-6 h-100 text-center text-lg-right my-auto">
-          		<ul class="list-inline mb-0">
-            		<li class="list-inline-item mr-3">
-              			<a href="#">
-                			<i class="fab fa-facebook fa-2x fa-fw"></i>
-              			</a>
-            		</li>
-            		<li class="list-inline-item mr-3">
-              			<a href="#">
-                			<i class="fab fa-twitter-square fa-2x fa-fw"></i>
-              			</a>
-            		</li>
-            		<li class="list-inline-item">
-              			<a href="#">
-                			<i class="fab fa-instagram fa-2x fa-fw"></i>
-              			</a>
-            		</li>
-          		</ul>
-        	</div>
-      	</div>
-    </div>
-</footer>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
-  </body>
-</html>
+:ET
