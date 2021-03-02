@@ -1,45 +1,19 @@
----
-layout: default
-title: "Vivez de votre passion"
-permalink: /souf/
----
-
-
-
-<div class="container-fluid d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
-	<div class="row">
-		<div class="col-lg-6 m-top-big m-bottom-mini">
-			<h2 class="hero-titre m-left-mini m-right-mini">
-						Vivez pleinement de votre passion
-			</h2>
-			<p class="m-left-mini m-right-mini">
-					Vous créez des contenus réguliers sur Internet : (vidéos, articles, musiques, photos, posts, etc.), vous avez une communauté qui vous suit et vous soutient ? Souf est fait pour vous. 
-			</p>
-		</div>
-		<div class="col-lg-6 m-bottom">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1614460272/badol/souf_hm7hfi.jpg" class="img-fluid">
-		</div>
-		<a href="" class="btn btn-primary btn-sm m-left-mini d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
-			Je veux en savoir plus
-			</a>
-	</div>
-</div>
-
-<div class="container-fluid d-xxl-block d-xl-block d-lg-block d-md-block d-sm-block d-none" style="background:url(https://res.cloudinary.com/aseed/image/upload/v1614460272/badol/souf_hm7hfi.jpg)no-repeat;background-size: cover;background-position: center top;height: auto;">
+I"�<div class="container-fluid" style="background:url(https://res.cloudinary.com/aseed/image/upload/v1614460272/badol/souf_hm7hfi.jpg)no-repeat;background-size: cover;background-position: center left;height: auto;">
 	<div class="row" style="background:rgba(0,0,0,.5);">
-		<div class="col-lg-6 m-top-big m-bottom">
-			<h2 class="text-white hero-titre m-left-big">
-				Vivez de votre passion
+		<div class="col-lg-6 m-top-xbig m-bottom-big">
+			<h2 class="text-white hero-titre-souf m-left-big ">
+						Vivez de votre passion
 			</h2>
 			<p class="text-white m-left-big">
-				Vous créez des contenus réguliers sur Internet : (vidéos, articles, musiques, photos, posts, etc.), vous avez une communauté qui vous suit et vous soutient ? Souf est fait pour vous.  
+				Vous créez des contenus réguliers sur Internet : <br />(vidéos, articles, musiques, photos, posts, etc.), <br />vous avez une communauté qui vous suit et vous soutient ? <br />Souf est fait pour vous.
 			</p>
-			<a class="btn btn-outline-light m-left-big" href="#" role="button">Je veux l'intégrer
+			<div class="m-left-big">
+			<a class="btn btn-outline-light" href="#" role="button">Je veux l'intégrer
 			</a>
+			</div>
 		</div>
 	</div>
 </div>
-
 
 <div class="container">
 	<div class="row m-top m-bottom">
@@ -52,14 +26,14 @@ permalink: /souf/
 			</p>
 		</div>
 		<div class="col-lg-6">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1614462185/badol/souf-kre_yqssvn.png" alt="" class="img-fluid">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1614462185/badol/souf-kre_yqssvn.png" alt="" class="img-fluid" />
 		</div>
 	</div>
 	<div class="row m-top m-bottom">
-        <div class="col-lg-6 order-last order-xxl-first order-xl-first order-lg-first order-md-first">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1614462651/badol/souf-revenu_su2rcy.png" alt="" class="img-fluid">
+        <div class="col-lg-6">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1614462651/badol/souf-revenu_su2rcy.png" alt="" class="img-fluid" />
 		</div>
-        <div class="col-lg-6 order-first order-xxl-last order-xl-last order-lg-last order-md-last m-top-md m-bottom-md">
+        <div class="col-lg-6 m-top-md m-bottom-md">
 			<h2 class="text-bold s-titre m-left-mini m-right-mini">
 				Développer une source de revenus réguliers
 			</h2>
@@ -116,7 +90,7 @@ permalink: /souf/
 			</p>
 		</div>
 		<div class="col-lg-6 m-bottom-mini">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1612991415/creators_owwgti.png" alt="" class="img-fluid">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1612991415/creators_owwgti.png" alt="" class="img-fluid" />
 		</div>
 	</div>
 </div>
@@ -125,7 +99,7 @@ permalink: /souf/
 	<div class="row">
 		<div class="col-lg-9 offset-lg-1 m-top-mini m-bottom-mini">
 			<h1 class="text-white text-bold s-titre">
-				Offrez à votre public un <br>moyen facile de vous remercier.
+				Offrez à votre public un <br />moyen facile de vous remercier.
 			</h1>
 			<p class="text-white">
 				Laissez ceux qui aiment votre contenu participer activement à votre travail en vous soutenant sur Badol, pas de durée de collecte ni d'objectif à atteindre, vos tips vous sont automatiquement versés chaque mois.
@@ -136,3 +110,4 @@ permalink: /souf/
 		</div>
 	</div>
 </div>
+:ET
