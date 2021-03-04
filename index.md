@@ -152,7 +152,7 @@ title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuel
 			<p class="text-white m-left-big">
 				Vous créez des contenus réguliers sur Internet : (vidéos, articles, musiques, photos, posts, etc.), vous avez une communauté qui vous suit et vous soutient ? Souf est fait pour vous.  
 			</p>
-			<a class="btn btn-outline-light m-left-big" href="#" role="button">Je veux l'intégrer
+			<a class="btn btn-outline-light m-left-big" href="/souf/" role="button">Je veux en savoir plus
 			</a>
 		</div>
 	</div>
