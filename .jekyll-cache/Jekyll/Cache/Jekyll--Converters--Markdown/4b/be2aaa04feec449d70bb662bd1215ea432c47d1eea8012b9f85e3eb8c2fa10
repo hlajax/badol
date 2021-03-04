@@ -1,12 +1,4 @@
----
-layout: default
-title: "Vivez de votre passion"
-permalink: /souf/
----
-
-
-
-<div class="container-fluid d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
+I"�<div class="container-fluid d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
 	<div class="row">
 		<div class="col-lg-6 m-top-big m-bottom-mini">
 			<h2 class="hero-titre m-left-mini m-right-mini">
@@ -17,7 +9,7 @@ permalink: /souf/
 			</p>
 		</div>
 		<div class="col-lg-6 m-bottom">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1614460272/badol/souf_hm7hfi.jpg" class="img-fluid">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1614460272/badol/souf_hm7hfi.jpg" class="img-fluid" />
 		</div>
 		<div class="text-center d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
 			<a href="" class="btn btn-primary btn-sm m-left-mini m-right-mini m-bottom-big">
@@ -36,13 +28,11 @@ permalink: /souf/
 			<p class="text-white m-left-big">
 				Vous créez des contenus réguliers sur Internet : (vidéos, articles, musiques, photos, posts, etc.), vous avez une communauté qui vous suit et vous soutient ? Souf est fait pour vous.  
 			</p>
-			<a class="btn btn-outline-light m-left-big" href="#" role="button">
-			Je veux créer ma page
+			<a class="btn btn-outline-light m-left-big" href="#" role="button">Je veux l'intégrer
 			</a>
 		</div>
 	</div>
 </div>
-
 
 <div class="container">
 	<div class="row m-top m-bottom">
@@ -55,12 +45,12 @@ permalink: /souf/
 			</p>
 		</div>
 		<div class="col-lg-6">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1614462185/badol/souf-kre_yqssvn.png" alt="" class="img-fluid">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1614462185/badol/souf-kre_yqssvn.png" alt="" class="img-fluid" />
 		</div>
 	</div>
 	<div class="row m-top m-bottom">
         <div class="col-lg-6 order-last order-xxl-first order-xl-first order-lg-first order-md-first">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1614462651/badol/souf-revenu_su2rcy.png" alt="" class="img-fluid">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1614462651/badol/souf-revenu_su2rcy.png" alt="" class="img-fluid" />
 		</div>
         <div class="col-lg-6 order-first order-xxl-last order-xl-last order-lg-last order-md-last m-top-md m-bottom-md">
 			<h2 class="text-bold s-titre m-left-mini m-right-mini">
@@ -83,10 +73,10 @@ permalink: /souf/
     <div class="card h-100">
       <div class="card-body">
       	<h1 class="card-title text-bold">1</h1>
-        <h4 class="card-title fw-bold m-bottom-big">
-        	Créez votre page Souf en quelques minutes
-    	</h4>
-		<p class="card-text m-top">En quelques minutes, débutez et terminez la procédure de cr&ation de compte</p>
+        <h5 class="card-title m-bottom-big">
+        	Créez votre page Souf
+    	</h5>
+		<p class="card-text m-top">En quelques minutes, débutez et terminez la procédure de cr&amp;ation de compte</p>
       </div>
     </div>
   </div>
@@ -94,7 +84,7 @@ permalink: /souf/
     <div class="card h-100">
       <div class="card-body">
       	<h1 class="card-title text-bold">2</h1>
-        <h4 class="card-title fw-bold m-bottom-big">Invitez vos fans sur votre page</h4>
+        <h5 class="card-title m-bottom-big">Invitez vos fans sur votre page</h5>
 		<p class="card-text m-top">Envoyez le lien de votre page à vos fans et followers</p>
       </div>
     </div>
@@ -103,8 +93,8 @@ permalink: /souf/
     <div class="card h-100">
       <div class="card-body">
       	<h1 class="card-title text-bold">3</h1>
-        <h4 class="card-title fw-bold m-bottom-big">Commencez à recevoir des soufs</h4>
-		<p class="card-text m-top">Vos fans et followers peuvent maintenant vous envoyer des soufs sur votre page.</p>
+        <h5 class="card-title m-bottom-big">Commencez à recevoir des tips</h5>
+		<p class="card-text m-top">Vos fans et followers peuevent maintenant vous envoyer des soufs sur votre page.</p>
       </div>
     </div>
   </div>
@@ -124,7 +114,7 @@ permalink: /souf/
 			</p>
 		</div>
 		<div class="col-lg-6 m-bottom-mini">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1612991415/creators_owwgti.png" alt="" class="img-fluid">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1612991415/creators_owwgti.png" alt="" class="img-fluid" />
 		</div>
 	</div>
 </div>
@@ -133,7 +123,7 @@ permalink: /souf/
 	<div class="row">
 		<div class="col-lg-6 offset-lg-3 m-top-mini m-bottom-mini text-center">
 			<h2 class="text-white text-bold s-titre">
-				Offrez à votre public un <br>moyen facile de vous remercier.
+				Offrez à votre public un <br />moyen facile de vous remercier.
 			</h2>
 			<p class="text-white">
 				Laissez ceux qui aiment votre contenu participer activement à votre travail en vous soutenant sur Badol, pas de durée de collecte ni d'objectif à atteindre, vos tips vous sont automatiquement versés chaque mois.
@@ -144,3 +134,4 @@ permalink: /souf/
 		</div>
 	</div>
 </div>
+:ET
