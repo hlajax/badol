@@ -3,39 +3,24 @@ layout: default
 title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuels"
 ---
 
-
-<div class="container-fluid d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
-	<div class="row">
-		<div class="col-lg-6 m-top-big m-bottom-mini">
-			<h2 class="hero-titre m-left-mini m-right-mini">
-						Gérer un business demande du travail, le nôtre est de vous aider.
-			</h2>
-			<p class="m-left-mini m-right-mini">
-				Nous mettons à la disposition de nos clients tout ce dont ils ont besoin pour accepter des paiements et d'envoyer des virements à partir de leurs téléphones. 
-			</p>
-			<a class="btn btn-outline-light m-left-big" href="#" role="button">Je veux l'intégrer
-			</a>
-		</div>
-		<div class="col-lg-6 m-bottom">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1614426661/badol/bd-hero_r3vrrz.jpg" class="img-fluid">
-		</div>
-	</div>
+<div class="container-fluid bd-hero">
+    <div class="row">
+        <div class="col-lg-6 m-top-big m-bottom-mini">
+            <h2 class="hero-titre m-left-mini m-right-mini">
+                Gérer un business demande du travail, le nôtre est de vous aider.
+            </h2>
+            <p class="m-left-mini m-right-mini">
+				Nous mettons à la disposition de nos clients tout ce dont ils ont besoin pour accepter des paiements et d'envoyer des virements à partir de leurs téléphones.
+            </p>
+            <a class="btn btn-primary m-left-mini" href="#" role="button">
+                Je veux l'intégrer
+		    </a>
+            </div>
+        <div class="col-lg-6 pay-hero">
+        </div>
+    </div>
 </div>
 
-<div class="container-fluid d-xxl-block d-xl-block d-lg-block d-md-block d-sm-block d-none" style="background:url(https://res.cloudinary.com/aseed/image/upload/v1614426661/badol/bd-hero_r3vrrz.jpg)no-repeat;background-size: cover;background-position: center top;height: auto;">
-	<div class="row" style="background:rgba(0,0,0,.5);">
-		<div class="col-lg-6 m-top-xbig m-bottom">
-			<h2 class="text-white hero-titre m-left-big">
-						Gérer un business demande du travail, le nôtre est de vous aider.
-			</h2>
-			<p class="text-white m-left-big">
-				Nous mettons à la disposition de nos clients tout ce dont ils ont besoin pour accepter des paiements et d'envoyer des virements à partir de leurs téléphones. 
-			</p>
-			<a class="btn btn-outline-light m-left-big" href="#" role="button">Je veux l'intégrer
-			</a>
-		</div>
-	</div>
-</div>
 <div class="container">
 	<div class="row">
 		<div class="col-lg-8 offset-lg-2" style="margin-top: 5%; margin-bottom: 5%;">
