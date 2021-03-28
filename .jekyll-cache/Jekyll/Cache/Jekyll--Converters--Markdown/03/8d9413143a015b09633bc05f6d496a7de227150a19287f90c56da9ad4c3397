@@ -1,0 +1,139 @@
+I"�<div class="container-fluid bd-hero">
+    <div class="row">
+        <div class="col-lg-6 m-top-big m-bottom-mini">
+            <h2 class="hero-titre m-left-mini m-right-mini">
+                Gérer un business demande du travail, le nôtre est de vous aider.
+            </h2>
+            <p class="m-left-mini m-right-mini">
+				Nous mettons à la disposition de nos clients tout ce dont ils ont besoin pour accepter des paiements et d'envoyer des virements à partir de leurs téléphones.
+            </p>
+            <a class="btn btn-primary m-left-mini" href="#" role="button">
+                Je veux l'intégrer
+		    </a>
+            </div>
+        <div class="col-lg-6 pay-hero">
+        </div>
+    </div>
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-8 offset-lg-2" style="margin-top: 5%; margin-bottom: 5%;">
+			<h2 class="intro-text">
+						Une suite de produits de paiement pour les marchands en ligne et physiques, les entreprises d'abonnements, les plateformes logicielles et places de marché, les créateurs de contenus et les particuliers.
+			</h2>
+		</div>
+	</div>
+</div>
+<div class="container" style="margin-top: 5%; margin-bottom: 5%;">
+	<div class="row">
+		<div class="col-lg-7 col-12">
+			<img src="assets/images/badol-vente.png" alt="" class="img-fluid" />
+		</div>
+		<div class="col-lg-5 col-12">
+			<h2 class="fw-bold s-titre m-top-big m-left-mini m-right-mini">
+				Accepter des paiements
+			</h2>
+			<p class="m-left-mini m-right-mini">
+				Configurez et installer un bouton Badol sur votre site ecommerce permettez à vos clients de vous payer directement sur votre site, aucune carte de crédit.
+			</p>
+			<div class="d-xxl-block d-xl-block d-lg-block d-md-block d-sm-block d-none">
+				<a href="" class="btn btn-primary m-left-mini m-right-mini">
+					Je veux en savoir plus
+				</a>
+			</div>
+			<div class="text-center d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
+			<a href="" class="btn btn-primary btn-sm m-left-mini m-right-mini">
+			Je veux en savoir plus
+			</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container" style="margin-top: 10%; margin-bottom: 5%;">
+	<div class="row">
+		<div class="col-lg-5 col-12">
+			<h2 class="fw-bold s-titre m-top-big m-left-mini m-right-mini">
+				Gestion de portefeuille et achats en ligne
+			</h2>
+			<p class="m-left-mini m-right-mini">
+				Ouvrez un compte badol et acheter en toute sécurité sur internet sans avoir à entrer vos informations de compte bancaire ou mobile money.
+			</p>
+			<div class="d-xxl-block d-xl-block d-lg-block d-md-block d-sm-block d-none">
+				<a href="" class="btn btn-primary m-left-mini m-right-mini">
+					Je veux en savoir plus
+				</a>
+			</div>
+			<div class="text-center d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
+			<a href="" class="btn btn-primary btn-sm m-left-mini m-right-mini m-bottom-big">
+			Je veux en savoir plus
+			</a>
+			</div>
+		</div>
+		<div class="col-lg-7 col-12">
+			<img src="assets/images/badol-achat.png" alt="" class="img-fluid" />
+		</div>
+	</div>
+</div>
+<div class="container" style="margin-top: 10%; margin-bottom: 5%;">
+	<div class="row">
+		<div class="col-lg-7 col-12 order-last order-xxl-first order-xl-first order-lg-first order-md-first">
+			<img src="assets/images/badol-vive.png" alt="" class="img-fluid" />
+		</div>
+		<div class="col-lg-5 col-12 order-first order-xxl-last order-xl-last order-lg-last order-md-last">
+			<h2 class="fw-bold s-titre m-top-big m-left-mini m-right-mini">
+				Vente de produits numériques
+			</h2>
+			<p class="m-left-mini m-right-mini">
+				Vendez directement à vos clients et recevez directement leurs paiments sans avoir à créer de site ecommerce.
+			</p>
+			<div class="d-xxl-block d-xl-block d-lg-block d-md-block d-sm-block d-none">
+				<a href="" class="btn btn-primary m-left-mini m-right-mini">
+					Je veux en savoir plus
+				</a>
+			</div>
+			<div class="text-center m-bottom-big d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
+			<a href="" class="btn btn-primary btn-sm m-left-mini m-right-mini">
+			Je veux en savoir plus
+			</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
+	<div class="row">
+		<div class="col-lg-6 m-top-big m-bottom-mini">
+			<h2 class="hero-titre m-left-mini m-right-mini">
+						Vivre de sa passion
+			</h2>
+			<p class="m-left-mini m-right-mini">
+					Vous créez des contenus réguliers sur Internet : (vidéos, articles, musiques, photos, posts, etc.), vous avez une communauté qui vous suit et vous soutient ? Souf est fait pour vous. 
+			</p>
+		</div>
+		<div class="col-lg-6 m-bottom">
+			<img src="https://res.cloudinary.com/aseed/image/upload/v1614460272/badol/souf_hm7hfi.jpg" class="img-fluid" />
+		</div>
+		<div class="text-center d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
+			<a href="" class="btn btn-primary btn-sm m-left-mini m-right-mini">
+			Je veux en savoir plus
+			</a>
+			</div>
+	</div>
+</div>
+
+<div class="container-fluid d-xxl-block d-xl-block d-lg-block d-md-block d-sm-block d-none" style="background:url(https://res.cloudinary.com/aseed/image/upload/v1614460272/badol/souf_hm7hfi.jpg)no-repeat;background-size: cover;background-position: center top;height: auto;">
+	<div class="row" style="background:rgba(0,0,0,.5);">
+		<div class="col-lg-6 m-top-big m-bottom">
+			<h2 class="text-white hero-titre m-left-big">
+				Vivre de sa passion
+			</h2>
+			<p class="text-white m-left-big">
+				Vous créez des contenus réguliers sur Internet : (vidéos, articles, musiques, photos, posts, etc.), vous avez une communauté qui vous suit et vous soutient ? Souf est fait pour vous.  
+			</p>
+			<a class="btn btn-outline-light m-left-big" href="/souf/" role="button">Je veux en savoir plus
+			</a>
+		</div>
+	</div>
+</div>
+:ET

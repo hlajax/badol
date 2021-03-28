@@ -5,18 +5,25 @@ title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuel
 
 <div class="container-fluid bd-hero">
     <div class="row">
-        <div class="col-lg-6 m-top-big m-bottom-mini">
+        <div class="col-lg-6 col-12 m-top-big m-bottom-mini">
             <h2 class="hero-titre m-left-mini m-right-mini">
                 Gérer un business demande du travail, le nôtre est de vous aider.
             </h2>
             <p class="m-left-mini m-right-mini">
 				Nous mettons à la disposition de nos clients tout ce dont ils ont besoin pour accepter des paiements et d'envoyer des virements à partir de leurs téléphones.
             </p>
-            <a class="btn btn-primary m-left-mini" href="#" role="button">
-                Je veux l'intégrer
-		    </a>
+            <div class="d-xxl-block d-xl-block d-lg-block d-md-block d-sm-block d-none">
+				<a href="https://forms.gle/ki2d6GTLP6f7C4dX8" class="btn btn-primary m-left-mini m-right-mini" target="_blank">
+					Je veux utiliser ce servive
+				</a>
+			</div>
+			<div class="text-center d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
+			<a href="https://forms.gle/ki2d6GTLP6f7C4dX8" class="btn btn-primary btn-sm m-left-mini m-right-mini" target="_blank">
+			Je veux utiliser ce service
+			</a>
+			</div>
             </div>
-        <div class="col-lg-6 pay-hero">
+        <div class="col-lg-6 col-12 pay-hero">
         </div>
     </div>
 </div>
@@ -33,7 +40,7 @@ title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuel
 <div class="container" style="margin-top: 5%; margin-bottom: 5%;">
 	<div class="row">
 		<div class="col-lg-7 col-12">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1614423696/badol/badole-vente_gdn51w.png" alt="" class="img-fluid">
+			<img src="assets/images/badol-vente.png" alt="" class="img-fluid">
 		</div>
 		<div class="col-lg-5 col-12">
 			<h2 class="fw-bold s-titre m-top-big m-left-mini m-right-mini">
@@ -43,13 +50,13 @@ title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuel
 				Configurez et installer un bouton Badol sur votre site ecommerce permettez à vos clients de vous payer directement sur votre site, aucune carte de crédit.
 			</p>
 			<div class="d-xxl-block d-xl-block d-lg-block d-md-block d-sm-block d-none">
-				<a href="" class="btn btn-primary m-left-mini m-right-mini">
-					Je veux en savoir plus
+				<a href="https://forms.gle/ki2d6GTLP6f7C4dX8" class="btn btn-primary m-left-mini m-right-mini">
+					Je veux m'enregistrer
 				</a>
 			</div>
 			<div class="text-center d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
-			<a href="" class="btn btn-primary btn-sm m-left-mini m-right-mini">
-			Je veux en savoir plus
+			<a href="https://forms.gle/ki2d6GTLP6f7C4dX8" class="btn btn-primary btn-sm m-left-mini m-right-mini">
+			Je veux m'enregistrer
 			</a>
 			</div>
 		</div>
@@ -57,7 +64,7 @@ title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuel
 </div>
 <div class="container" style="margin-top: 10%; margin-bottom: 5%;">
 	<div class="row">
-		<div class="col-lg-5 col-12">
+		<div class="col-lg-5 order-lg-first order-last col-12">
 			<h2 class="fw-bold s-titre m-top-big m-left-mini m-right-mini">
 				Gestion de portefeuille et achats en ligne
 			</h2>
@@ -76,16 +83,16 @@ title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuel
 			</div>
 		</div>
 		<div class="col-lg-7 col-12">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1614423840/badol/badol-achat_ufweay.png" alt="" class="img-fluid">
+			<img src="assets/images/badol-achat.png" alt="" class="img-fluid">
 		</div>
 	</div>
 </div>
 <div class="container" style="margin-top: 10%; margin-bottom: 5%;">
 	<div class="row">
-		<div class="col-lg-7 col-12 order-last order-xxl-first order-xl-first order-lg-first order-md-first">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1614426190/badol/badol-vive_aiywq2.png" alt="" class="img-fluid">
+		<div class="col-lg-7 col-12">
+			<img src="assets/images/badol-vive.png" alt="" class="img-fluid">
 		</div>
-		<div class="col-lg-5 col-12 order-first order-xxl-last order-xl-last order-lg-last order-md-last">
+		<div class="col-lg-5 col-12">
 			<h2 class="fw-bold s-titre m-top-big m-left-mini m-right-mini">
 				Vente de produits numériques
 			</h2>
@@ -93,12 +100,12 @@ title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuel
 				Vendez directement à vos clients et recevez directement leurs paiments sans avoir à créer de site ecommerce.
 			</p>
 			<div class="d-xxl-block d-xl-block d-lg-block d-md-block d-sm-block d-none">
-				<a href="" class="btn btn-primary m-left-mini m-right-mini">
+				<a href="/teka/" class="btn btn-primary m-left-mini m-right-mini">
 					Je veux en savoir plus
 				</a>
 			</div>
 			<div class="text-center m-bottom-big d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
-			<a href="" class="btn btn-primary btn-sm m-left-mini m-right-mini">
+			<a href="/teka/" class="btn btn-primary btn-sm m-left-mini m-right-mini">
 			Je veux en savoir plus
 			</a>
 			</div>
@@ -106,39 +113,28 @@ title: "Paiements en ligne, gestion de portefeuille et vente de produits virtuel
 	</div>
 </div>
 
-
-<div class="container-fluid d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
+<div class="container" style="margin-top: 10%; margin-bottom: 5%;">
 	<div class="row">
-		<div class="col-lg-6 m-top-big m-bottom-mini">
-			<h2 class="hero-titre m-left-mini m-right-mini">
-						Vivre de sa passion
+		<div class="col-lg-5 col-12 order-lg-first order-last">
+			<h2 class="fw-bold s-titre m-top-big m-left-mini m-right-mini">
+				Vivre de sa passion grâce au soutien  de sa communauté
 			</h2>
 			<p class="m-left-mini m-right-mini">
-					Vous créez des contenus réguliers sur Internet : (vidéos, articles, musiques, photos, posts, etc.), vous avez une communauté qui vous suit et vous soutient ? Souf est fait pour vous. 
+				Permettez à ceux qui aiment votre contenu participer activement à votre travail en vous soutenant sur Badol.
 			</p>
-		</div>
-		<div class="col-lg-6 m-bottom">
-			<img src="https://res.cloudinary.com/aseed/image/upload/v1614460272/badol/souf_hm7hfi.jpg" class="img-fluid">
-		</div>
-		<div class="text-center d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
-			<a href="" class="btn btn-primary btn-sm m-left-mini m-right-mini">
+			<div class="d-xxl-block d-xl-block d-lg-block d-md-block d-sm-block d-none">
+				<a href="/souf/" class="btn btn-primary m-left-mini m-right-mini">
+					Je veux en savoir plus
+				</a>
+			</div>
+			<div class="text-center d-xxl-none d-xl-none d-lg-none d-md-none d-sm-none d-block">
+			<a href="/souf/" class="btn btn-primary btn-sm m-left-mini m-right-mini m-bottom-big">
 			Je veux en savoir plus
 			</a>
 			</div>
-	</div>
-</div>
-
-<div class="container-fluid d-xxl-block d-xl-block d-lg-block d-md-block d-sm-block d-none" style="background:url(https://res.cloudinary.com/aseed/image/upload/v1614460272/badol/souf_hm7hfi.jpg)no-repeat;background-size: cover;background-position: center top;height: auto;">
-	<div class="row" style="background:rgba(0,0,0,.5);">
-		<div class="col-lg-6 m-top-big m-bottom">
-			<h2 class="text-white hero-titre m-left-big">
-				Vivre de sa passion
-			</h2>
-			<p class="text-white m-left-big">
-				Vous créez des contenus réguliers sur Internet : (vidéos, articles, musiques, photos, posts, etc.), vous avez une communauté qui vous suit et vous soutient ? Souf est fait pour vous.  
-			</p>
-			<a class="btn btn-outline-light m-left-big" href="/souf/" role="button">Je veux en savoir plus
-			</a>
+		</div>
+		<div class="col-lg-7 col-12">
+			<img src="assets/images/souf-rec.png" alt="" class="img-fluid">
 		</div>
 	</div>
 </div>
